@@ -1,0 +1,6 @@
+codigo_do_imovel,capacidade_de_pessoas,cidade,codigo_postal,preco_por_dia
+101,4,Sao Paulo,01001-000,150.00
+102,2,Rio de Janeiro,20010-123,120.50
+103,6,Belo Horizonte,30130-456,200.00
+104,3,Curitiba,80020-789,110.75
+105,5,Fortaleza,60040-321,180.00
